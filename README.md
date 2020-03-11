@@ -1,5 +1,8 @@
 # anecdot
 
+Khmelnychyi
+���������� �.  �������_2
+
 Pashkovskyi
 ����������� �. �������_1 
 
