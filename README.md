@@ -1,5 +1,8 @@
 # anecdot
 
+Pashkovskyi
+����������� �. �������_1 
+
 Vitalik
 �������� 60
 
