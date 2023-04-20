@@ -1,3 +1,4 @@
+Починаємо працювати з GitHub
 # anecdot
 
 puhach
